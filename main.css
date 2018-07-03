@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+
+
+.box{
+  background-color: red;
+  color: red;
+  width: 50%;
+  height: 300px;
+  margin-left: 130%;
+}
+
+.box2{
+  background-color: blue;
+  color: red;
+  width: 25%;
+  height: 300px;
+  margin-left: 10%
+}
